@@ -1,5 +1,8 @@
 # Student Management System - Java Swing For OOVP Project
 
+Lecture : Sir Williem
+President University
+
 This repository hosts a comprehensive **Student Management System**, a desktop application developed using **Java Swing** and powered by a **MySQL database**. Designed with a focus on usability and functionality, this application provides administrators with essential tools to manage student records and major information efficiently within an educational or organizational setting. It serves as a practical example of building GUI applications with Java, implementing database interactions, and handling core data operations.
 
 ---
