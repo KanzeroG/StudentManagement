@@ -11,9 +11,8 @@ The core objective of this project is to create a robust, user-friendly interfac
 ---
 
 ## ✨ Key Features
-* **Make sure to loadfirst to get all the data in database**: (`screenshots/first.png` after that it will be like this `screenshots/two`)
-* **Secure Admin Login**: (As seen in `screenshots/login.png`) - A dedicated login screen ensures that only authorized personnel can access the management system.
-* **Comprehensive Student Dashboard**: (As seen in `screenshots/dashboard.png`) - The main interface allows for:
+* **Secure Admin Login**: A dedicated login screen ensures that only authorized personnel can access the management system.
+* **Comprehensive Student Dashboard**: The main interface allows for:
     * **Adding New Students**: Input fields for ID, Name, Gender, GPA, Enrollment Date, and Major.
     * **Viewing Existing Students**: A clear, sortable table displays all student records.
     * **Updating Student Information**: Select a student from the table and modify their details in the form.
@@ -28,6 +27,25 @@ The core objective of this project is to create a robust, user-friendly interfac
 * **User-Friendly Interface**: Built with Java Swing, offering a familiar desktop application experience.
 * **Input Validation**: Basic checks to ensure essential fields are filled before adding or updating records.
 * **Custom Application Icon**: Enhances the application's visual identity.
+
+---
+## Screenshots
+
+### Authentication ###
+![Login Page](screenshots/login.png)
+
+### Dasboard Management ###
+![Dasboard](screenshots/dashboard.png)
+
+### Load First to get database list ###
+![Loadfirst button](screenshots/first.png)
+![After load](screenshots/two.png)
+
+### UPDATE, DELETE, ADD BUTTON ###
+![ADD](screenshots/addstudent.png)
+![DELETE](screenshots/delete.png)
+![UPDATE](screenshots/updatestudent.png)
+
 
 ---
 
@@ -233,9 +251,3 @@ loadMajorsIntoComboBox: Queries the majors table and populates the combolist JCo
 btnclearActionPerformed: Resets all the input fields to their default state.
 setApplicationIcon: Loads an icon from the project resources and sets it as the frame's icon.
 
-🖼️ Screenshots
-Login Interface: `screenshots/login.png`
-Dasboard: `screenshots/dashboard.png`
-Add student: `screenshots/addstudent.png`
-Delete Student: `screenshots/delete.png`
-Update Student: `screenshots/updatestudent,png`
