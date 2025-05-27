@@ -1,4 +1,4 @@
-# Student Management System - Java Swing
+# Student Management System - Java Swing For OOVP Project
 
 This repository hosts a comprehensive **Student Management System**, a desktop application developed using **Java Swing** and powered by a **MySQL database**. Designed with a focus on usability and functionality, this application provides administrators with essential tools to manage student records and major information efficiently within an educational or organizational setting. It serves as a practical example of building GUI applications with Java, implementing database interactions, and handling core data operations.
 
@@ -132,8 +132,8 @@ The core objective of this project is to create a robust, user-friendly interfac
 
 ## ✨ Key Features
 
-* **Secure Admin Login**: (As seen in `image_360a74.png`) - A dedicated login screen ensures that only authorized personnel can access the management system.
-* **Comprehensive Student Dashboard**: (As seen in `image_360a2d.png`) - The main interface allows for:
+* **Secure Admin Login**: A dedicated login screen ensures that only authorized personnel can access the managemen
+* **Comprehensive Student Dashboard**: The main interface allows for:
     * **Adding New Students**: Input fields for ID, Name, Gender, GPA, Enrollment Date, and Major.
     * **Viewing Existing Students**: A clear, sortable table displays all student records.
     * **Updating Student Information**: Select a student from the table and modify their details in the form.
@@ -222,4 +222,4 @@ M. Faza Ar Rantisi |
 Resya Aniantri Priatna |
 Jagad Alit Kalimosodo
 
-([https://github.com/KanzeroG/StudentManagement])
+([https://github.com/KanzeroG/StudentManagement]) OOVP PROJECT
