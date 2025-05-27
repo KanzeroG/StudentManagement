@@ -32,19 +32,19 @@ The core objective of this project is to create a robust, user-friendly interfac
 ## Screenshots
 
 ### Authentication ###
-![Login Page](screenshots/login.png)
+![Login Page](src/screenshots/login.png)
 
 ### Dasboard Management ###
-![Dasboard](screenshots/dashboard.png)
+![Dasboard](src/screenshots/dashboard.png)
 
 ### Load First to get database list ###
-![Loadfirst button](screenshots/first.png)
-![After load](screenshots/two.png)
+![Loadfirst button](src/screenshots/first.png)
+![After load](src/screenshots/two.png)
 
 ### UPDATE, DELETE, ADD BUTTON ###
-![ADD](screenshots/addstudent.png)
-![DELETE](screenshots/delete.png)
-![UPDATE](screenshots/updatestudent.png)
+![ADD](src/screenshots/addstudent.png)
+![DELETE](src/screenshots/delete.png)
+![UPDATE](src/screenshots/updatestudent.png)
 
 
 ---
